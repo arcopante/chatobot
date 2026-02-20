@@ -49,3 +49,8 @@ Notas
 Contribuir
 - Abre issues o pull requests en el repo remoto.
 
+License
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
+See the `LICENSE` file for the full terms.
+
+
