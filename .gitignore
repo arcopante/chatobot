@@ -9,9 +9,9 @@ venv/
 .env
 .envrc
 
+dist/
 # Distribution / packaging
 build/
-dist/
 *.egg-info/
 
 # Editor directories and files
