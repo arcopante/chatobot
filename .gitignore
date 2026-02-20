@@ -35,6 +35,9 @@ chatobot.db
 # Secrets
 .env
 
+# Local scripts (private helpers)
+scripts/release.sh
+
 # Others
 *.pyc
 
